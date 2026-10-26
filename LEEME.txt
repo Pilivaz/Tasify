@@ -1,0 +1,6 @@
+TASIFY — paquete para Vercel
+
+Este paquete tiene index.html en la raíz, junto con app.js, styles.css y assets/.
+Subí el contenido completo de esta carpeta a Vercel. No muevas los archivos ni la carpeta assets/.
+
+El emblema de Tasify está incrustado en index.html. Los logos de entidades se cargan desde assets/logos/.
